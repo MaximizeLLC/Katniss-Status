@@ -34,7 +34,7 @@
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2021-05-17": 178,
+      "2021-05-17": 1259,
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
@@ -52,18 +52,20 @@
     "url": "https://replit.com/@maximize/Katniss",
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 423,
-    "timeWeek": 755,
-    "timeMonth": 927,
-    "timeYear": 927,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 854,
+    "timeDay": 233,
+    "timeWeek": 666,
+    "timeMonth": 854,
+    "timeYear": 854,
+    "dailyMinutesDown": {
+      "2021-05-17": 2
+    }
   },
   {
     "name": "Katniss (Replit | App)",
@@ -82,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-17": 178,
+      "2021-05-17": 1259,
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
