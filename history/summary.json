@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 217,
-    "timeWeek": 194,
-    "timeMonth": 195,
+    "timeDay": 214,
+    "timeWeek": 209,
+    "timeMonth": 197,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -23,21 +23,20 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "93.70%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.49%",
     "time": 473,
-    "timeDay": 456,
-    "timeWeek": 333,
-    "timeMonth": 390,
+    "timeDay": 432,
+    "timeWeek": 370,
+    "timeMonth": 383,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2022-01-21": 40,
       "2021-08-30": 21,
-      "2021-05-31": 1303,
-      "2021-05-30": 1440
+      "2021-05-31": 1303
     }
   },
   {
@@ -46,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "4.18%",
+    "uptime": "4.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 220,
-    "timeDay": 168,
-    "timeWeek": 148,
-    "timeMonth": 168,
-    "timeYear": 192,
+    "timeDay": 206,
+    "timeWeek": 166,
+    "timeMonth": 170,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-05-29": 142,
+      "2022-05-30": 137,
+      "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -420,8 +420,7 @@
       "2021-06-03": 1440,
       "2021-06-02": 1440,
       "2021-06-01": 1440,
-      "2021-05-31": 1440,
-      "2021-05-30": 1440
+      "2021-05-31": 1440
     }
   },
   {
@@ -435,13 +434,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 768,
-    "timeDay": 225,
-    "timeWeek": 2387,
-    "timeMonth": 1571,
-    "timeYear": 768,
+    "time": 803,
+    "timeDay": 5272,
+    "timeWeek": 3126,
+    "timeMonth": 1738,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2022-05-29": 142,
+      "2022-05-30": 137,
+      "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -804,8 +804,7 @@
       "2021-06-03": 1440,
       "2021-06-02": 1440,
       "2021-06-01": 1440,
-      "2021-05-31": 1440,
-      "2021-05-30": 1440
+      "2021-05-31": 1440
     }
   }
 ]
