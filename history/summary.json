@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 124,
-    "timeWeek": 195,
-    "timeMonth": 174,
+    "timeDay": 155,
+    "timeWeek": 176,
+    "timeMonth": 176,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "93.98%",
+    "uptime": "94.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 467,
-    "timeDay": 196,
-    "timeWeek": 372,
-    "timeMonth": 343,
-    "timeYear": 419,
+    "timeDay": 329,
+    "timeWeek": 355,
+    "timeMonth": 346,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-01-21": 40,
       "2021-08-30": 21
@@ -44,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.99%",
+    "uptime": "3.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 218,
-    "timeDay": 107,
-    "timeWeek": 169,
-    "timeMonth": 162,
+    "timeDay": 178,
+    "timeWeek": 170,
+    "timeMonth": 165,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-06-16": 129,
+      "2022-06-17": 129,
+      "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -418,8 +419,7 @@
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
-      "2021-06-18": 1440,
-      "2021-06-17": 1440
+      "2021-06-18": 1440
     }
   },
   {
@@ -433,13 +433,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1145,
-    "timeDay": 4895,
-    "timeWeek": 3114,
-    "timeMonth": 3213,
-    "timeYear": 1145,
+    "time": 1146,
+    "timeDay": 1339,
+    "timeWeek": 2605,
+    "timeMonth": 3250,
+    "timeYear": 1146,
     "dailyMinutesDown": {
-      "2022-06-16": 129,
+      "2022-06-17": 129,
+      "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -802,8 +803,7 @@
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
-      "2021-06-18": 1440,
-      "2021-06-17": 1440
+      "2021-06-18": 1440
     }
   }
 ]
