@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 155,
-    "timeWeek": 176,
-    "timeMonth": 176,
+    "timeDay": 91,
+    "timeWeek": 167,
+    "timeMonth": 175,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "94.00%",
+    "uptime": "94.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 467,
-    "timeDay": 329,
-    "timeWeek": 355,
+    "time": 466,
+    "timeDay": 210,
+    "timeWeek": 333,
     "timeMonth": 346,
     "timeYear": 420,
     "dailyMinutesDown": {
@@ -44,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.98%",
+    "uptime": "3.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 218,
-    "timeDay": 178,
-    "timeWeek": 170,
-    "timeMonth": 165,
+    "timeDay": 145,
+    "timeWeek": 171,
+    "timeMonth": 166,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-06-17": 129,
+      "2022-06-18": 131,
+      "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
@@ -418,8 +419,7 @@
       "2021-06-22": 1440,
       "2021-06-21": 1440,
       "2021-06-20": 1440,
-      "2021-06-19": 1440,
-      "2021-06-18": 1440
+      "2021-06-19": 1440
     }
   },
   {
@@ -433,13 +433,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1146,
-    "timeDay": 1339,
-    "timeWeek": 2605,
-    "timeMonth": 3250,
-    "timeYear": 1146,
+    "time": 1141,
+    "timeDay": 289,
+    "timeWeek": 1902,
+    "timeMonth": 3167,
+    "timeYear": 1141,
     "dailyMinutesDown": {
-      "2022-06-17": 129,
+      "2022-06-18": 131,
+      "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
@@ -802,8 +803,7 @@
       "2021-06-22": 1440,
       "2021-06-21": 1440,
       "2021-06-20": 1440,
-      "2021-06-19": 1440,
-      "2021-06-18": 1440
+      "2021-06-19": 1440
     }
   }
 ]
