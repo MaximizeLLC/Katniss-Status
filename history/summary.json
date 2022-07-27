@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 229,
-    "timeWeek": 166,
-    "timeMonth": 161,
+    "timeDay": 141,
+    "timeWeek": 164,
+    "timeMonth": 159,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "94.52%",
+    "uptime": "94.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 455,
-    "timeDay": 230,
-    "timeWeek": 356,
-    "timeMonth": 352,
+    "timeDay": 313,
+    "timeWeek": 366,
+    "timeMonth": 346,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2022-01-21": 40,
@@ -50,12 +50,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 212,
-    "timeDay": 112,
-    "timeWeek": 204,
+    "timeDay": 119,
+    "timeWeek": 158,
     "timeMonth": 164,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-07-26": 155,
+      "2022-07-27": 151,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -418,8 +419,7 @@
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   },
   {
@@ -433,13 +433,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1414,
-    "timeDay": 126,
-    "timeWeek": 974,
-    "timeMonth": 2264,
-    "timeYear": 1414,
+    "time": 1409,
+    "timeDay": 457,
+    "timeWeek": 1008,
+    "timeMonth": 2108,
+    "timeYear": 1409,
     "dailyMinutesDown": {
-      "2022-07-26": 155,
+      "2022-07-27": 151,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -802,8 +803,7 @@
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   }
 ]
