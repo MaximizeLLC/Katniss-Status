@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 178,
-    "timeWeek": 167,
-    "timeMonth": 227,
+    "timeDay": 217,
+    "timeWeek": 177,
+    "timeMonth": 228,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "94.91%",
+    "uptime": "94.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
     "time": 505,
-    "timeDay": 487,
-    "timeWeek": 448,
-    "timeMonth": 1129,
-    "timeYear": 431,
+    "timeDay": 360,
+    "timeWeek": 435,
+    "timeMonth": 1127,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2022-08-13": 61,
       "2022-08-12": 85,
@@ -45,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.36%",
+    "uptime": "3.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 210,
-    "timeDay": 155,
-    "timeWeek": 157,
+    "timeDay": 182,
+    "timeWeek": 164,
     "timeMonth": 168,
-    "timeYear": 161,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-08-31": 173,
+      "2022-09-01": 154,
+      "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
@@ -419,8 +420,7 @@
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
-      "2021-09-02": 1440,
-      "2021-09-01": 1440
+      "2021-09-02": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-08-31": 173,
+      "2022-09-01": 154,
+      "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
@@ -803,8 +804,7 @@
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
-      "2021-09-02": 1440,
-      "2021-09-01": 1440
+      "2021-09-02": 1440
     }
   }
 ]
