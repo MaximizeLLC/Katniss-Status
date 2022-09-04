@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 198,
-    "timeWeek": 170,
-    "timeMonth": 229,
+    "timeDay": 189,
+    "timeWeek": 181,
+    "timeMonth": 227,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "94.94%",
+    "uptime": "94.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
     "time": 504,
-    "timeDay": 403,
-    "timeWeek": 386,
+    "timeDay": 477,
+    "timeWeek": 394,
     "timeMonth": 1129,
     "timeYear": 430,
     "dailyMinutesDown": {
@@ -45,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.34%",
+    "uptime": "3.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 210,
-    "timeDay": 215,
+    "time": 209,
+    "timeDay": 122,
     "timeWeek": 185,
-    "timeMonth": 174,
+    "timeMonth": 172,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-09-03": 161,
+      "2022-09-04": 157,
+      "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
@@ -419,8 +420,7 @@
       "2021-09-08": 1440,
       "2021-09-07": 1440,
       "2021-09-06": 1440,
-      "2021-09-05": 1440,
-      "2021-09-04": 1440
+      "2021-09-05": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-09-03": 161,
+      "2022-09-04": 157,
+      "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
@@ -803,8 +804,7 @@
       "2021-09-08": 1440,
       "2021-09-07": 1440,
       "2021-09-06": 1440,
-      "2021-09-05": 1440,
-      "2021-09-04": 1440
+      "2021-09-05": 1440
     }
   }
 ]
