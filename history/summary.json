@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 144,
-    "timeWeek": 133,
-    "timeMonth": 191,
+    "timeDay": 86,
+    "timeWeek": 127,
+    "timeMonth": 188,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "95.15%",
+    "uptime": "95.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 457,
-    "timeDay": 617,
-    "timeWeek": 372,
-    "timeMonth": 356,
+    "time": 456,
+    "timeDay": 120,
+    "timeWeek": 344,
+    "timeMonth": 346,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2022-08-13": 61,
@@ -50,13 +50,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 194,
-    "timeDay": 517,
-    "timeWeek": 212,
-    "timeMonth": 164,
+    "time": 193,
+    "timeDay": 105,
+    "timeWeek": 205,
+    "timeMonth": 163,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-09-24": 170,
+      "2022-09-25": 166,
+      "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
@@ -419,8 +420,7 @@
       "2021-09-29": 1440,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
-      "2021-09-26": 1440,
-      "2021-09-25": 1440
+      "2021-09-26": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-09-24": 170,
+      "2022-09-25": 166,
+      "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
@@ -803,8 +804,7 @@
       "2021-09-29": 1440,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
-      "2021-09-26": 1440,
-      "2021-09-25": 1440
+      "2021-09-26": 1440
     }
   }
 ]
