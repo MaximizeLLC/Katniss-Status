@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 100,
-    "timeWeek": 145,
-    "timeMonth": 186,
-    "timeYear": 190,
+    "timeDay": 229,
+    "timeWeek": 153,
+    "timeMonth": 188,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/katniss.glitch.me",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 456,
-    "timeDay": 200,
-    "timeWeek": 327,
-    "timeMonth": 328,
-    "timeYear": 421,
+    "time": 457,
+    "timeDay": 548,
+    "timeWeek": 353,
+    "timeMonth": 334,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2022-08-13": 61,
       "2022-08-12": 85,
@@ -45,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.17%",
+    "uptime": "3.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 190,
-    "timeDay": 151,
-    "timeWeek": 212,
-    "timeMonth": 167,
+    "time": 189,
+    "timeDay": 154,
+    "timeWeek": 209,
+    "timeMonth": 164,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-09-29": 168,
+      "2022-09-30": 191,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -419,8 +420,7 @@
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
-      "2021-10-01": 1440,
-      "2021-09-30": 1440
+      "2021-10-01": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-09-29": 168,
+      "2022-09-30": 191,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -803,8 +804,7 @@
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
-      "2021-10-01": 1440,
-      "2021-09-30": 1440
+      "2021-10-01": 1440
     }
   }
 ]
