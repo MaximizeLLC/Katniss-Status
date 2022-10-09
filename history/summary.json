@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 127,
-    "timeWeek": 154,
-    "timeMonth": 148,
-    "timeYear": 188,
+    "timeDay": 189,
+    "timeWeek": 155,
+    "timeMonth": 151,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 457,
-    "timeDay": 352,
-    "timeWeek": 397,
-    "timeMonth": 325,
+    "timeDay": 460,
+    "timeWeek": 401,
+    "timeMonth": 332,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-08-13": 61,
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.12%",
+    "uptime": "3.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 185,
-    "timeDay": 168,
-    "timeWeek": 152,
-    "timeMonth": 164,
+    "timeDay": 139,
+    "timeWeek": 141,
+    "timeMonth": 166,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-10-08": 139,
+      "2022-10-09": 163,
+      "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -419,8 +420,7 @@
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
-      "2021-10-10": 1440,
-      "2021-10-09": 1440
+      "2021-10-10": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-10-08": 139,
+      "2022-10-09": 163,
+      "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -803,8 +804,7 @@
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
-      "2021-10-10": 1440,
-      "2021-10-09": 1440
+      "2021-10-10": 1440
     }
   }
 ]
