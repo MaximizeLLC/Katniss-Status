@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 116,
-    "timeWeek": 169,
+    "time": 185,
+    "timeDay": 163,
+    "timeWeek": 167,
     "timeMonth": 165,
     "timeYear": 185,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 456,
-    "timeDay": 186,
-    "timeWeek": 265,
-    "timeMonth": 349,
-    "timeYear": 426,
+    "time": 457,
+    "timeDay": 422,
+    "timeWeek": 293,
+    "timeMonth": 355,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2022-08-13": 61,
       "2022-08-12": 85,
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "3.01%",
+    "uptime": "3.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 180,
-    "timeDay": 88,
-    "timeWeek": 152,
-    "timeMonth": 177,
-    "timeYear": 156,
+    "time": 179,
+    "timeDay": 244,
+    "timeWeek": 165,
+    "timeMonth": 181,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-10-27": 143,
+      "2022-10-28": 152,
+      "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
@@ -419,8 +420,7 @@
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
-      "2021-10-29": 1440,
-      "2021-10-28": 1440
+      "2021-10-29": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-10-27": 143,
+      "2022-10-28": 152,
+      "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
@@ -803,8 +804,7 @@
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
-      "2021-10-29": 1440,
-      "2021-10-28": 1440
+      "2021-10-29": 1440
     }
   }
 ]
