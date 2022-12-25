@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 110,
-    "timeWeek": 167,
-    "timeMonth": 172,
-    "timeYear": 182,
+    "timeDay": 152,
+    "timeWeek": 165,
+    "timeMonth": 171,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "95.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 406,
-    "timeDay": 427,
-    "timeWeek": 315,
-    "timeMonth": 323,
+    "timeDay": 202,
+    "timeWeek": 295,
+    "timeMonth": 318,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2022-08-13": 61,
@@ -51,12 +51,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 164,
-    "timeDay": 151,
-    "timeWeek": 155,
-    "timeMonth": 152,
+    "timeDay": 129,
+    "timeWeek": 149,
+    "timeMonth": 150,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-12-24": 89,
+      "2022-12-25": 103,
+      "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -419,8 +420,7 @@
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
-      "2021-12-26": 1440,
-      "2021-12-25": 1440
+      "2021-12-26": 1440
     }
   },
   {
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-12-24": 89,
+      "2022-12-25": 103,
+      "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -803,8 +804,7 @@
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
-      "2021-12-26": 1440,
-      "2021-12-25": 1440
+      "2021-12-26": 1440
     }
   }
 ]
