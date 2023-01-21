@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 120,
-    "timeWeek": 132,
-    "timeMonth": 164,
+    "timeDay": 79,
+    "timeWeek": 122,
+    "timeMonth": 159,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -23,20 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "96.07%",
+    "uptime": "96.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 398,
-    "timeDay": 175,
-    "timeWeek": 236,
-    "timeMonth": 287,
-    "timeYear": 420,
+    "timeDay": 202,
+    "timeWeek": 228,
+    "timeMonth": 282,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2022-08-13": 61,
-      "2022-08-12": 85,
-      "2022-01-21": 40
+      "2022-08-12": 85
     }
   },
   {
@@ -51,12 +50,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 69,
-    "timeWeek": 133,
-    "timeMonth": 141,
+    "timeDay": 66,
+    "timeWeek": 120,
+    "timeMonth": 136,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-01-20": 106,
+      "2023-01-21": 102,
+      "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
@@ -419,8 +419,7 @@
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
-      "2022-01-22": 1440,
-      "2022-01-21": 1440
+      "2022-01-22": 1440
     }
   },
   {
@@ -438,9 +437,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1411,
+    "timeYear": 1417,
     "dailyMinutesDown": {
-      "2023-01-20": 106,
+      "2023-01-21": 102,
+      "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
@@ -803,8 +803,7 @@
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
-      "2022-01-22": 1440,
-      "2022-01-21": 1440
+      "2022-01-22": 1440
     }
   }
 ]
