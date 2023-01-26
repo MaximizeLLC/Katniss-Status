@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 99,
-    "timeWeek": 120,
-    "timeMonth": 160,
+    "timeDay": 112,
+    "timeWeek": 122,
+    "timeMonth": 162,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 397,
-    "timeDay": 213,
-    "timeWeek": 239,
-    "timeMonth": 282,
-    "timeYear": 418,
+    "timeDay": 121,
+    "timeWeek": 228,
+    "timeMonth": 281,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2022-08-13": 61,
       "2022-08-12": 85
@@ -49,13 +49,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 158,
-    "timeDay": 125,
-    "timeWeek": 121,
-    "timeMonth": 139,
-    "timeYear": 159,
+    "time": 157,
+    "timeDay": 70,
+    "timeWeek": 111,
+    "timeMonth": 140,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-01-25": 101,
+      "2023-01-26": 103,
+      "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -418,8 +419,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   },
   {
@@ -437,9 +437,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1442,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2023-01-25": 101,
+      "2023-01-26": 103,
+      "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -802,8 +803,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   }
 ]
