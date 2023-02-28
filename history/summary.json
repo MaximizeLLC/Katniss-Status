@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 260,
-    "timeWeek": 243,
-    "timeMonth": 308,
+    "timeDay": 244,
+    "timeWeek": 235,
+    "timeMonth": 309,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 420,
-    "timeDay": 575,
-    "timeWeek": 439,
-    "timeMonth": 316,
+    "timeDay": 364,
+    "timeWeek": 437,
+    "timeMonth": 319,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2023-01-27": 16,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "2.45%",
+    "uptime": "2.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 155,
-    "timeDay": 133,
-    "timeWeek": 140,
+    "timeDay": 164,
+    "timeWeek": 142,
     "timeMonth": 161,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-02-27": 110,
+      "2023-02-28": 108,
+      "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -420,8 +421,7 @@
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
-      "2022-03-01": 1440,
-      "2022-02-28": 1440
+      "2022-03-01": 1440
     }
   },
   {
@@ -439,9 +439,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1669,
+    "timeYear": 1679,
     "dailyMinutesDown": {
-      "2023-02-27": 110,
+      "2023-02-28": 108,
+      "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -804,8 +805,7 @@
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
-      "2022-03-01": 1440,
-      "2022-02-28": 1440
+      "2022-03-01": 1440
     }
   }
 ]
