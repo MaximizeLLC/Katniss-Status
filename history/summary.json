@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 169,
-    "timeWeek": 164,
-    "timeMonth": 184,
+    "timeDay": 134,
+    "timeWeek": 159,
+    "timeMonth": 183,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 420,
-    "timeDay": 362,
-    "timeWeek": 339,
-    "timeMonth": 385,
+    "time": 421,
+    "timeDay": 589,
+    "timeWeek": 373,
+    "timeMonth": 390,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2023-01-27": 16,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "2.28%",
+    "uptime": "2.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 154,
-    "timeDay": 188,
+    "timeDay": 168,
     "timeWeek": 142,
-    "timeMonth": 147,
+    "timeMonth": 148,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-04-17": 94,
+      "2023-04-18": 93,
+      "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -420,8 +421,7 @@
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
-      "2022-04-19": 1440,
-      "2022-04-18": 1440
+      "2022-04-19": 1440
     }
   },
   {
@@ -439,9 +439,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2112,
+    "timeYear": 2130,
     "dailyMinutesDown": {
-      "2023-04-17": 94,
+      "2023-04-18": 93,
+      "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -804,8 +805,7 @@
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
-      "2022-04-19": 1440,
-      "2022-04-18": 1440
+      "2022-04-19": 1440
     }
   }
 ]
