@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 72,
-    "timeWeek": 162,
-    "timeMonth": 161,
+    "timeDay": 87,
+    "timeWeek": 164,
+    "timeMonth": 157,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "96.64%",
+    "uptime": "96.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 422,
-    "timeDay": 192,
-    "timeWeek": 403,
-    "timeMonth": 378,
+    "timeDay": 210,
+    "timeWeek": 400,
+    "timeMonth": 370,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2023-01-27": 16,
@@ -52,12 +52,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 154,
-    "timeDay": 95,
-    "timeWeek": 147,
-    "timeMonth": 135,
+    "timeDay": 72,
+    "timeWeek": 148,
+    "timeMonth": 132,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-05-07": 101,
+      "2023-05-08": 95,
+      "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -420,8 +421,7 @@
       "2022-05-12": 1440,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
-      "2022-05-09": 1440,
-      "2022-05-08": 1440
+      "2022-05-09": 1440
     }
   },
   {
@@ -439,9 +439,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2539,
+    "timeYear": 2427,
     "dailyMinutesDown": {
-      "2023-05-07": 101,
+      "2023-05-08": 95,
+      "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -804,8 +805,7 @@
       "2022-05-12": 1440,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
-      "2022-05-09": 1440,
-      "2022-05-08": 1440
+      "2022-05-09": 1440
     }
   }
 ]
