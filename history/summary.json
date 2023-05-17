@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 191,
-    "timeWeek": 168,
-    "timeMonth": 153,
+    "timeDay": 176,
+    "timeWeek": 163,
+    "timeMonth": 154,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "96.68%",
+    "uptime": "96.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 422,
-    "timeDay": 385,
-    "timeWeek": 379,
-    "timeMonth": 369,
-    "timeYear": 437,
+    "timeDay": 388,
+    "timeWeek": 371,
+    "timeMonth": 370,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2023-01-27": 16,
       "2023-01-26": 62,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "2.19%",
+    "uptime": "2.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 155,
-    "timeDay": 249,
-    "timeWeek": 171,
+    "timeDay": 165,
+    "timeWeek": 175,
     "timeMonth": 138,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2023-05-16": 98,
+      "2023-05-17": 98,
+      "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -420,8 +421,7 @@
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
-      "2022-05-18": 1440,
-      "2022-05-17": 1440
+      "2022-05-18": 1440
     }
   },
   {
@@ -439,9 +439,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2655,
+    "timeYear": 2689,
     "dailyMinutesDown": {
-      "2023-05-16": 98,
+      "2023-05-17": 98,
+      "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -804,8 +805,7 @@
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
-      "2022-05-18": 1440,
-      "2022-05-17": 1440
+      "2022-05-18": 1440
     }
   }
 ]
