@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 117,
-    "timeWeek": 152,
-    "timeMonth": 176,
+    "timeDay": 217,
+    "timeWeek": 165,
+    "timeMonth": 178,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 421,
-    "timeDay": 93,
-    "timeWeek": 292,
-    "timeMonth": 356,
+    "time": 420,
+    "timeDay": 361,
+    "timeWeek": 315,
+    "timeMonth": 354,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2023-01-27": 16,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "2.05%",
+    "uptime": "2.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 155,
-    "timeDay": 150,
-    "timeWeek": 151,
+    "timeDay": 180,
+    "timeWeek": 165,
     "timeMonth": 139,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-07-06": 121,
+      "2023-07-07": 118,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -420,8 +421,7 @@
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-08": 1440
     }
   },
   {
@@ -435,13 +435,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1605,
+    "time": 1614,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1570,
+    "timeYear": 1623,
     "dailyMinutesDown": {
-      "2023-07-06": 121,
+      "2023-07-07": 118,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -804,8 +805,7 @@
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-08": 1440
     }
   }
 ]
