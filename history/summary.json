@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 170,
-    "timeWeek": 160,
-    "timeMonth": 152,
+    "timeDay": 140,
+    "timeWeek": 141,
+    "timeMonth": 153,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 420,
-    "timeDay": 364,
-    "timeWeek": 326,
-    "timeMonth": 322,
+    "timeDay": 380,
+    "timeWeek": 330,
+    "timeMonth": 328,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2023-01-27": 16,
@@ -52,12 +52,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 155,
-    "timeDay": 183,
-    "timeWeek": 149,
-    "timeMonth": 152,
-    "timeYear": 154,
+    "timeDay": 179,
+    "timeWeek": 157,
+    "timeMonth": 155,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-07-29": 85,
+      "2023-07-30": 95,
+      "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -420,8 +421,7 @@
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
-      "2022-07-31": 1440,
-      "2022-07-30": 1440
+      "2022-07-31": 1440
     }
   },
   {
@@ -435,13 +435,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1795,
+    "time": 1807,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 85,
+      "2023-07-30": 95,
+      "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -804,8 +805,7 @@
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
-      "2022-07-31": 1440,
-      "2022-07-30": 1440
+      "2022-07-31": 1440
     }
   }
 ]
