@@ -22,7 +22,7 @@
     "url": "https://katniss.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
-    "status": "up",
+    "status": "down",
     "uptime": "97.13%",
     "uptimeDay": "95.53%",
     "uptimeWeek": "99.36%",
@@ -57,7 +57,7 @@
     "timeMonth": 164,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-09-11": 200,
+      "2023-09-11": 210,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-11": 200,
+      "2023-09-11": 210,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
