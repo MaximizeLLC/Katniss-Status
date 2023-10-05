@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 133,
-    "timeWeek": 174,
-    "timeMonth": 189,
+    "timeDay": 333,
+    "timeWeek": 199,
+    "timeMonth": 197,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.95%",
     "time": 430,
-    "timeDay": 298,
-    "timeWeek": 374,
-    "timeMonth": 443,
+    "timeDay": 456,
+    "timeWeek": 385,
+    "timeMonth": 449,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2023-09-11": 152,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.84%",
+    "uptime": "1.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 157,
-    "timeDay": 138,
-    "timeWeek": 183,
-    "timeMonth": 184,
+    "timeDay": 215,
+    "timeWeek": 189,
+    "timeMonth": 186,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-10-04": 78,
+      "2023-10-05": 77,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -420,8 +421,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -435,13 +435,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2683,
+    "time": 2647,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-04": 79,
+      "2023-10-05": 77,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -804,8 +805,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   }
 ]
