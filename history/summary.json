@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 144,
-    "timeWeek": 181,
-    "timeMonth": 187,
+    "timeDay": 240,
+    "timeWeek": 183,
+    "timeMonth": 190,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 431,
-    "timeDay": 402,
-    "timeWeek": 436,
-    "timeMonth": 395,
-    "timeYear": 380,
+    "time": 432,
+    "timeDay": 473,
+    "timeWeek": 443,
+    "timeMonth": 399,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2023-09-11": 152,
       "2023-08-11": 16,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.81%",
+    "uptime": "1.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 158,
-    "timeDay": 155,
-    "timeWeek": 153,
-    "timeMonth": 181,
+    "timeDay": 167,
+    "timeWeek": 152,
+    "timeMonth": 180,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-10-19": 77,
+      "2023-10-20": 77,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -420,8 +421,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   },
   {
@@ -435,13 +435,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2493,
+    "time": 2443,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-19": 77,
+      "2023-10-20": 77,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
@@ -804,8 +805,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   }
 ]
