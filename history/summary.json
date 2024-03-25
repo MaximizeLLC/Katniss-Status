@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 136,
-    "timeWeek": 180,
-    "timeMonth": 155,
+    "timeDay": 113,
+    "timeWeek": 167,
+    "timeMonth": 154,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "up",
-    "uptime": "97.65%",
+    "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 390,
-    "timeDay": 302,
-    "timeWeek": 407,
-    "timeMonth": 384,
-    "timeYear": 386,
+    "timeDay": 319,
+    "timeWeek": 387,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2024-02-03": 50,
       "2024-01-28": 19,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.54%",
+    "uptime": "1.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 155,
-    "timeDay": 132,
-    "timeWeek": 204,
-    "timeMonth": 180,
+    "timeDay": 84,
+    "timeWeek": 174,
+    "timeMonth": 176,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-03-24": 83,
+      "2024-03-25": 78,
+      "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
@@ -420,8 +421,7 @@
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
-      "2023-03-27": 1440,
-      "2023-03-26": 1440
+      "2023-03-27": 1440
     }
   },
   {
@@ -441,7 +441,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-24": 83,
+      "2024-03-25": 78,
+      "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
@@ -804,8 +805,7 @@
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
-      "2023-03-27": 1440,
-      "2023-03-26": 1440
+      "2023-03-27": 1440
     }
   }
 ]
