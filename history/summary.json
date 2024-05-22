@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 135,
-    "timeWeek": 125,
-    "timeMonth": 159,
+    "timeDay": 159,
+    "timeWeek": 133,
+    "timeMonth": 160,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "97.11%",
+    "uptime": "97.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.73%",
-    "uptimeYear": "97.93%",
+    "uptimeMonth": "72.44%",
+    "uptimeYear": "97.66%",
     "time": 373,
-    "timeDay": 143,
-    "timeWeek": 237,
-    "timeMonth": 325,
+    "timeDay": 149,
+    "timeWeek": 206,
+    "timeMonth": 320,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-05-21": 82,
+      "2024-05-22": 83,
+      "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -55,18 +56,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.46%",
+    "uptime": "1.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 157,
-    "timeDay": 181,
-    "timeWeek": 156,
-    "timeMonth": 176,
+    "timeDay": 155,
+    "timeWeek": 154,
+    "timeMonth": 178,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-21": 82,
+      "2024-05-22": 83,
+      "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -429,8 +431,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 1440,
-      "2023-05-23": 1440
+      "2023-05-24": 1440
     }
   },
   {
@@ -450,7 +451,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-21": 82,
+      "2024-05-22": 83,
+      "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -813,8 +815,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 1440,
-      "2023-05-23": 1440
+      "2023-05-24": 1440
     }
   }
 ]
