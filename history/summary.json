@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 225,
-    "timeWeek": 168,
-    "timeMonth": 165,
+    "timeDay": 143,
+    "timeWeek": 166,
+    "timeMonth": 162,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "96.50%",
+    "uptime": "96.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.72%",
-    "uptimeYear": "96.01%",
+    "uptimeMonth": "49.41%",
+    "uptimeYear": "95.74%",
     "time": 373,
-    "timeDay": 528,
-    "timeWeek": 260,
-    "timeMonth": 308,
+    "timeDay": 234,
+    "timeWeek": 272,
+    "timeMonth": 304,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-05-28": 83,
+      "2024-05-29": 93,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -68,12 +69,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 158,
-    "timeDay": 202,
-    "timeWeek": 187,
-    "timeMonth": 186,
+    "timeDay": 227,
+    "timeWeek": 197,
+    "timeMonth": 187,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-05-28": 83,
+      "2024-05-29": 93,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -436,8 +438,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -457,7 +458,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-28": 83,
+      "2024-05-29": 93,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -820,8 +822,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   }
 ]
