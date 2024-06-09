@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 164,
+    "timeDay": 85,
     "timeWeek": 150,
-    "timeMonth": 156,
+    "timeMonth": 153,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "95.56%",
+    "uptime": "95.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.55%",
-    "uptimeYear": "93.00%",
-    "time": 370,
-    "timeDay": 92,
-    "timeWeek": 189,
-    "timeMonth": 249,
+    "uptimeMonth": "13.24%",
+    "uptimeYear": "92.72%",
+    "time": 369,
+    "timeDay": 71,
+    "timeWeek": 165,
+    "timeMonth": 235,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2024-06-08": 84,
+      "2024-06-09": 98,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -79,12 +80,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 172,
-    "timeWeek": 159,
-    "timeMonth": 174,
+    "timeDay": 74,
+    "timeWeek": 147,
+    "timeMonth": 172,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-06-08": 84,
+      "2024-06-09": 98,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -447,8 +449,7 @@
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
-      "2023-06-11": 1440,
-      "2023-06-10": 1440
+      "2023-06-11": 1440
     }
   },
   {
@@ -468,7 +469,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-08": 84,
+      "2024-06-09": 98,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -831,8 +833,7 @@
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
-      "2023-06-11": 1440,
-      "2023-06-10": 1440
+      "2023-06-11": 1440
     }
   }
 ]
