@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 150,
-    "timeWeek": 157,
-    "timeMonth": 148,
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 152,
+    "timeMonth": 147,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "93.00%",
+    "uptime": "92.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.51%",
+    "uptimeYear": "84.23%",
     "time": 363,
-    "timeDay": 151,
-    "timeWeek": 293,
-    "timeMonth": 238,
+    "timeDay": 241,
+    "timeWeek": 266,
+    "timeMonth": 234,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2024-07-09": 94,
+      "2024-07-10": 94,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -110,12 +111,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 160,
-    "timeDay": 203,
-    "timeWeek": 192,
-    "timeMonth": 171,
+    "timeDay": 274,
+    "timeWeek": 204,
+    "timeMonth": 175,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-07-09": 94,
+      "2024-07-10": 94,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -478,8 +480,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   },
   {
@@ -499,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 94,
+      "2024-07-10": 94,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -862,8 +864,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   }
 ]
