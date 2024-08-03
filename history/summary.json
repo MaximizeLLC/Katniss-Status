@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 158,
-    "timeWeek": 197,
-    "timeMonth": 164,
+    "time": 162,
+    "timeDay": 130,
+    "timeWeek": 156,
+    "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "91.12%",
+    "uptime": "91.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.93%",
+    "uptimeYear": "77.66%",
     "time": 357,
-    "timeDay": 322,
-    "timeWeek": 317,
-    "timeMonth": 273,
-    "timeYear": 358,
+    "timeDay": 302,
+    "timeWeek": 306,
+    "timeMonth": 269,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-08-02": 95,
+      "2024-08-03": 94,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -128,18 +129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.37%",
+    "uptime": "1.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 162,
-    "timeDay": 101,
-    "timeWeek": 196,
-    "timeMonth": 187,
-    "timeYear": 168,
+    "timeDay": 72,
+    "timeWeek": 171,
+    "timeMonth": 183,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-08-02": 95,
+      "2024-08-03": 94,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -502,8 +504,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -523,7 +524,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 95,
+      "2024-08-03": 94,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -886,8 +888,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   }
 ]
