@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 154,
-    "timeWeek": 201,
-    "timeMonth": 176,
+    "timeDay": 230,
+    "timeWeek": 196,
+    "timeMonth": 179,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "86.23%",
+    "uptime": "86.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.60%",
+    "uptimeYear": "59.33%",
     "time": 345,
-    "timeDay": 168,
-    "timeWeek": 273,
-    "timeMonth": 261,
+    "timeDay": 518,
+    "timeWeek": 294,
+    "timeMonth": 272,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-10-08": 107,
+      "2024-10-09": 107,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -199,12 +200,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 167,
-    "timeDay": 130,
-    "timeWeek": 190,
-    "timeMonth": 180,
+    "timeDay": 227,
+    "timeWeek": 184,
+    "timeMonth": 182,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-10-08": 108,
+      "2024-10-09": 107,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -567,8 +569,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -588,7 +589,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 108,
+      "2024-10-09": 107,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -951,8 +953,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   }
 ]
