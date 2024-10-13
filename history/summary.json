@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 116,
-    "timeWeek": 171,
-    "timeMonth": 167,
+    "timeDay": 153,
+    "timeWeek": 173,
+    "timeMonth": 169,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "85.95%",
+    "uptime": "85.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.51%",
-    "time": 344,
-    "timeDay": 131,
-    "timeWeek": 258,
-    "timeMonth": 261,
-    "timeYear": 330,
+    "uptimeYear": "58.23%",
+    "time": 343,
+    "timeDay": 256,
+    "timeWeek": 273,
+    "timeMonth": 262,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-10-12": 104,
+      "2024-10-13": 113,
+      "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -203,12 +204,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 167,
-    "timeDay": 255,
-    "timeWeek": 193,
-    "timeMonth": 177,
+    "timeDay": 94,
+    "timeWeek": 180,
+    "timeMonth": 175,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-10-12": 104,
+      "2024-10-13": 113,
+      "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -571,8 +573,7 @@
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
-      "2023-10-15": 1440,
-      "2023-10-14": 1440
+      "2023-10-15": 1440
     }
   },
   {
@@ -592,7 +593,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-12": 104,
+      "2024-10-13": 113,
+      "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -955,8 +957,7 @@
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
-      "2023-10-15": 1440,
-      "2023-10-14": 1440
+      "2023-10-15": 1440
     }
   }
 ]
