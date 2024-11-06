@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 124,
-    "timeWeek": 183,
-    "timeMonth": 167,
+    "time": 163,
+    "timeDay": 82,
+    "timeWeek": 170,
+    "timeMonth": 165,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "84.34%",
+    "uptime": "84.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.93%",
+    "uptimeYear": "51.66%",
     "time": 342,
-    "timeDay": 146,
-    "timeWeek": 300,
-    "timeMonth": 278,
+    "timeDay": 271,
+    "timeWeek": 282,
+    "timeMonth": 282,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2024-11-05": 106,
+      "2024-11-06": 105,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -227,12 +228,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 170,
-    "timeDay": 150,
-    "timeWeek": 206,
+    "timeDay": 187,
+    "timeWeek": 208,
     "timeMonth": 186,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-11-05": 106,
+      "2024-11-06": 105,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -595,8 +597,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   },
   {
@@ -616,7 +617,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 106,
+      "2024-11-06": 106,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -979,8 +981,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   }
 ]
