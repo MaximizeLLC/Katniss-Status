@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 80,
-    "timeWeek": 157,
-    "timeMonth": 175,
+    "timeDay": 355,
+    "timeWeek": 177,
+    "timeMonth": 183,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "83.10%",
+    "uptime": "83.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.72%",
+    "uptimeYear": "46.45%",
     "time": 340,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 316,
-    "timeYear": 326,
+    "timeMonth": 319,
+    "timeYear": 325,
     "dailyMinutesDown": {
-      "2024-11-24": 119,
+      "2024-11-25": 115,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -240,18 +241,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.25%",
+    "uptime": "1.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 171,
-    "timeDay": 111,
-    "timeWeek": 182,
+    "timeDay": 158,
+    "timeWeek": 170,
     "timeMonth": 190,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-11-24": 119,
+      "2024-11-25": 115,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -614,8 +616,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -635,7 +636,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-24": 119,
+      "2024-11-25": 115,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -998,8 +1000,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   }
 ]
