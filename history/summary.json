@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 132,
-    "timeWeek": 129,
-    "timeMonth": 168,
+    "timeDay": 327,
+    "timeWeek": 158,
+    "timeMonth": 170,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "79.19%",
+    "uptime": "79.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.19%",
-    "time": 442,
-    "timeDay": 0,
-    "timeWeek": 15530,
-    "timeMonth": 12328,
-    "timeYear": 486,
+    "uptimeYear": "28.92%",
+    "time": 479,
+    "timeDay": 15735,
+    "timeWeek": 15581,
+    "timeMonth": 13009,
+    "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-01-27": 107,
+      "2025-01-28": 105,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -308,13 +309,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 176,
-    "timeDay": 273,
-    "timeWeek": 176,
-    "timeMonth": 185,
-    "timeYear": 182,
+    "time": 177,
+    "timeDay": 329,
+    "timeWeek": 197,
+    "timeMonth": 189,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-01-27": 107,
+      "2025-01-28": 105,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -677,8 +679,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -698,7 +699,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 107,
+      "2025-01-28": 105,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -1061,8 +1063,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   }
 ]
