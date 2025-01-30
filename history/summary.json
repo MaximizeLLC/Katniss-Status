@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 180,
-    "timeWeek": 171,
-    "timeMonth": 166,
+    "timeDay": 178,
+    "timeWeek": 188,
+    "timeMonth": 167,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "79.08%",
+    "uptime": "79.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.65%",
-    "time": 479,
-    "timeDay": 0,
-    "timeWeek": 15581,
-    "timeMonth": 13009,
-    "timeYear": 538,
+    "uptimeYear": "28.37%",
+    "time": 515,
+    "timeDay": 15337,
+    "timeWeek": 15485,
+    "timeMonth": 13397,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-01-29": 105,
+      "2025-01-30": 103,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -305,18 +306,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.19%",
+    "uptime": "1.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 177,
-    "timeDay": 234,
-    "timeWeek": 212,
+    "timeDay": 154,
+    "timeWeek": 216,
     "timeMonth": 191,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-01-29": 105,
+      "2025-01-30": 103,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -679,8 +681,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -700,7 +701,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-29": 105,
+      "2025-01-30": 103,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1063,8 +1065,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   }
 ]
