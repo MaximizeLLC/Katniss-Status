@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 160,
-    "timeWeek": 173,
+    "timeDay": 236,
+    "timeWeek": 189,
     "timeMonth": 193,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "77.10%",
+    "uptime": "77.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "19.07%",
-    "time": 682,
+    "uptimeYear": "18.79%",
+    "time": 684,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 15598,
-    "timeYear": 821,
+    "timeMonth": 15390,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-03-05": 112,
+      "2025-03-06": 113,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -339,18 +340,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.16%",
+    "uptime": "1.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 179,
-    "timeDay": 202,
-    "timeWeek": 170,
-    "timeMonth": 211,
+    "timeDay": 223,
+    "timeWeek": 182,
+    "timeMonth": 212,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-03-05": 112,
+      "2025-03-06": 113,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -713,8 +715,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -734,7 +735,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 113,
+      "2025-03-06": 113,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1097,8 +1099,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   }
 ]
