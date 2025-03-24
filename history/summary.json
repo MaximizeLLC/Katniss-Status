@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 289,
-    "timeWeek": 229,
-    "timeMonth": 189,
-    "timeYear": 170,
+    "timeDay": 213,
+    "timeWeek": 232,
+    "timeMonth": 194,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "76.12%",
+    "uptime": "76.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.13%",
-    "time": 701,
+    "uptimeYear": "13.86%",
+    "time": 702,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 857,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-03-23": 121,
+      "2025-03-24": 119,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -363,12 +364,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 181,
-    "timeDay": 215,
-    "timeWeek": 231,
-    "timeMonth": 202,
-    "timeYear": 188,
+    "timeDay": 246,
+    "timeWeek": 235,
+    "timeMonth": 205,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-03-23": 121,
+      "2025-03-24": 119,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -731,8 +733,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -752,7 +753,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-23": 121,
+      "2025-03-24": 119,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -1115,8 +1117,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   }
 ]
