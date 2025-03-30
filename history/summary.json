@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 177,
-    "timeWeek": 220,
-    "timeMonth": 203,
-    "timeYear": 172,
+    "timeDay": 138,
+    "timeWeek": 198,
+    "timeMonth": 201,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "75.79%",
+    "uptime": "75.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "12.49%",
-    "time": 706,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "12.22%",
+    "time": 707,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 869,
+    "timeYear": 871,
     "dailyMinutesDown": {
-      "2025-03-29": 114,
+      "2025-03-30": 124,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -366,15 +367,16 @@
     "uptime": "1.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 182,
-    "timeDay": 203,
-    "timeWeek": 245,
-    "timeMonth": 216,
+    "timeDay": 138,
+    "timeWeek": 234,
+    "timeMonth": 214,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-03-29": 114,
+      "2025-03-30": 124,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -737,8 +739,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -750,7 +751,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -758,7 +759,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 114,
+      "2025-03-30": 124,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1121,8 +1123,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   }
 ]
