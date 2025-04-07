@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 179,
-    "timeWeek": 186,
+    "timeDay": 155,
+    "timeWeek": 179,
     "timeMonth": 199,
-    "timeYear": 172,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "75.37%",
+    "uptime": "75.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.30%",
-    "time": 713,
+    "uptimeYear": "10.02%",
+    "time": 714,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 885,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2025-04-06": 122,
+      "2025-04-07": 120,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -376,13 +377,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 182,
-    "timeDay": 100,
-    "timeWeek": 158,
-    "timeMonth": 207,
-    "timeYear": 189,
+    "time": 184,
+    "timeDay": 842,
+    "timeWeek": 259,
+    "timeMonth": 226,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-04-06": 122,
+      "2025-04-07": 120,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -745,8 +747,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   },
   {
@@ -766,7 +767,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 122,
+      "2025-04-07": 120,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -1129,8 +1131,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   }
 ]
