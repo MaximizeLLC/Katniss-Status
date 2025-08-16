@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitch.com.ico",
     "slug": "katniss-glitch-code",
     "status": "down",
-    "uptime": "97.60%",
+    "uptime": "97.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.74%",
+    "uptimeYear": "89.47%",
     "time": 180,
-    "timeDay": 149,
-    "timeWeek": 197,
-    "timeMonth": 196,
+    "timeDay": 272,
+    "timeWeek": 191,
+    "timeMonth": 198,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-08-15": 131,
+      "2025-08-16": 125,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -63,18 +64,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "69.16%",
+    "uptime": "69.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.49%",
     "time": 775,
-    "timeDay": 329,
-    "timeWeek": 193,
+    "timeDay": 169,
+    "timeWeek": 203,
     "timeMonth": 164,
-    "timeYear": 1237,
+    "timeYear": 1236,
     "dailyMinutesDown": {
-      "2025-08-15": 131,
+      "2025-08-16": 125,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -437,8 +439,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -447,18 +448,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "1.04%",
+    "uptime": "1.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 196,
-    "timeDay": 231,
-    "timeWeek": 350,
-    "timeMonth": 235,
+    "time": 195,
+    "timeDay": 206,
+    "timeWeek": 345,
+    "timeMonth": 238,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-08-15": 131,
+      "2025-08-16": 125,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -821,8 +823,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -842,7 +843,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 131,
+      "2025-08-16": 125,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -1205,8 +1207,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   }
 ]
