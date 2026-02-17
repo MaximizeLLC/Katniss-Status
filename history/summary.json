@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.34%",
     "time": 225,
-    "timeDay": 319,
-    "timeWeek": 307,
-    "timeMonth": 339,
+    "timeDay": 226,
+    "timeWeek": 310,
+    "timeMonth": 335,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2026-01-05": 1283,
@@ -206,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "61.83%",
+    "uptime": "61.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.49%",
-    "time": 716,
-    "timeDay": 116,
-    "timeWeek": 129,
-    "timeMonth": 144,
-    "timeYear": 186,
+    "time": 715,
+    "timeDay": 124,
+    "timeWeek": 137,
+    "timeMonth": 141,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2026-02-16": 172,
+      "2026-02-17": 169,
+      "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -580,8 +581,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   },
   {
@@ -590,18 +590,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "0.93%",
+    "uptime": "0.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 216,
-    "timeDay": 196,
-    "timeWeek": 195,
-    "timeMonth": 207,
+    "timeDay": 115,
+    "timeWeek": 183,
+    "timeMonth": 206,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-02-16": 172,
+      "2026-02-17": 169,
+      "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -964,8 +965,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   },
   {
@@ -985,7 +985,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 172,
+      "2026-02-17": 169,
+      "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -1348,8 +1349,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   }
 ]
