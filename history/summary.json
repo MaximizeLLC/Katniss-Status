@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitch.com.ico",
     "slug": "katniss-glitch-code",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.34%",
-    "time": 239,
-    "timeDay": 308,
-    "timeWeek": 334,
-    "timeMonth": 331,
+    "time": 240,
+    "timeDay": 458,
+    "timeWeek": 355,
+    "timeMonth": 337,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-01-05": 1283,
@@ -206,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "60.31%",
+    "uptime": "60.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.49%",
-    "time": 683,
-    "timeDay": 139,
-    "timeWeek": 151,
-    "timeMonth": 144,
+    "time": 681,
+    "timeDay": 170,
+    "timeWeek": 154,
+    "timeMonth": 145,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-04-01": 213,
+      "2026-04-02": 196,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -580,8 +581,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -595,13 +595,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 220,
-    "timeDay": 132,
-    "timeWeek": 195,
-    "timeMonth": 226,
-    "timeYear": 224,
+    "time": 219,
+    "timeDay": 172,
+    "timeWeek": 190,
+    "timeMonth": 225,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-04-01": 213,
+      "2026-04-02": 196,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -964,8 +965,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -985,7 +985,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 213,
+      "2026-04-02": 196,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -1348,8 +1349,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   }
 ]
