@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.34%",
-    "time": 257,
-    "timeDay": 337,
-    "timeWeek": 492,
-    "timeMonth": 429,
-    "timeYear": 283,
+    "time": 258,
+    "timeDay": 1025,
+    "timeWeek": 612,
+    "timeMonth": 448,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2026-01-05": 1283,
       "2026-01-04": 1440,
@@ -206,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "59.15%",
+    "uptime": "59.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.49%",
-    "time": 624,
-    "timeDay": 228,
-    "timeWeek": 183,
-    "timeMonth": 146,
+    "time": 622,
+    "timeDay": 62,
+    "timeWeek": 179,
+    "timeMonth": 145,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-05-06": 234,
+      "2026-05-07": 232,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -580,8 +581,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -590,18 +590,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "0.89%",
+    "uptime": "0.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 216,
-    "timeDay": 210,
-    "timeWeek": 183,
-    "timeMonth": 182,
+    "timeDay": 48,
+    "timeWeek": 166,
+    "timeMonth": 178,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-05-06": 234,
+      "2026-05-07": 232,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -964,8 +965,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -985,7 +985,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 234,
+      "2026-05-07": 232,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1348,8 +1349,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   }
 ]
