@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitch.com.ico",
     "slug": "katniss-glitch-code",
     "status": "up",
-    "uptime": "90.38%",
+    "uptime": "90.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "50.34%",
-    "time": 287,
-    "timeDay": 404,
-    "timeWeek": 506,
-    "timeMonth": 397,
-    "timeYear": 319,
+    "time": 288,
+    "timeDay": 370,
+    "timeWeek": 500,
+    "timeMonth": 402,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2026-01-05": 1283,
       "2026-01-04": 1440,
@@ -206,20 +206,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "57.26%",
+    "uptime": "57.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.23%",
     "time": 157,
-    "timeDay": 14,
+    "timeDay": 18,
     "timeWeek": 24,
     "timeMonth": 58,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2025-07-07": 1140,
-      "2025-07-06": 1440,
-      "2026-07-05": 251,
+      "2026-07-06": 259,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -595,13 +595,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 197,
-    "timeDay": 23,
+    "time": 196,
+    "timeDay": 28,
     "timeWeek": 29,
     "timeMonth": 39,
-    "timeYear": 193,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2026-07-05": 251,
+      "2026-07-06": 259,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -964,8 +965,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   },
   {
@@ -985,7 +985,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 251,
+      "2026-07-06": 259,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -1348,8 +1349,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   }
 ]
