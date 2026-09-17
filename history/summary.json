@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitch.com.ico",
     "slug": "katniss-glitch-code",
     "status": "up",
-    "uptime": "90.74%",
+    "uptime": "90.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.40%",
-    "time": 327,
-    "timeDay": 758,
-    "timeWeek": 509,
-    "timeMonth": 478,
-    "timeYear": 367,
+    "uptimeYear": "69.67%",
+    "time": 328,
+    "timeDay": 540,
+    "timeWeek": 554,
+    "timeMonth": 488,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2026-01-05": 1283,
       "2026-01-04": 1440,
@@ -125,8 +125,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -135,18 +134,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/katniss.glitch.me.ico",
     "slug": "katniss-glitch-app",
     "status": "down",
-    "uptime": "55.13%",
+    "uptime": "55.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 138,
-    "timeDay": 48,
-    "timeWeek": 21,
+    "timeDay": 38,
+    "timeWeek": 24,
     "timeMonth": 48,
-    "timeYear": 128,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-09-16": 274,
+      "2026-09-17": 280,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -509,8 +509,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -519,18 +518,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "katniss-replit-code",
     "status": "down",
-    "uptime": "0.83%",
+    "uptime": "0.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 170,
-    "timeDay": 46,
-    "timeWeek": 37,
-    "timeMonth": 41,
+    "timeDay": 45,
+    "timeWeek": 39,
+    "timeMonth": 42,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-09-16": 275,
+      "2026-09-17": 280,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -893,8 +893,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -914,7 +913,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-16": 275,
+      "2026-09-17": 280,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -1277,8 +1277,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   }
 ]
